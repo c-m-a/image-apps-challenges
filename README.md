@@ -10,7 +10,7 @@ for i in range(10):
     print(fibonacci(i), end=" ")
 ```
 
-## Recursive function to calculate Fibonacci numbers
+## Recursived function to calculate Fibonacci numbers
 
 ```python
 def fibonacci(n):
